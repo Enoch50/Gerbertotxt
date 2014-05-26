@@ -1,4 +1,4 @@
 Gerbertotxt
 ===========
 
-a simple code to extract to middle point of polygons from gerber files to txt files
+a simple python code to extract center point of polygons from gerber files to txt files
