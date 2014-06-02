@@ -5,6 +5,7 @@ import re
 readfilelist=[]
 writefilelist=[]
 writefilelinenum=[]
+print os.getcwd()
 mypath=os.path.dirname(sys.argv[0])
 os.chdir(mypath)
 filelist= os.listdir(mypath)
